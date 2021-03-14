@@ -20,7 +20,7 @@ You can also adjust the radius and area from the settings page.
   I added a video file for testing. You can test it either through the video file or via the ip camera or via your webcam.
   
 ## Requirements
-- Python 2.7.15+
+- Python 3.5+
 - OpenCV 3.4.2+ 
 - PyQt5 Library(GUI - for Setting page)
   
